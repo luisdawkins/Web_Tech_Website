@@ -1,0 +1,52 @@
+body {
+  background-color: lightgoldenrodyellow;
+  font-family: sans-serif;
+}
+
+.navbar {
+  border: solid thin lightgray;
+  padding: 5px;
+}
+
+.site-name {
+  font-weight: bold;
+  font-size: 200%;
+}
+
+.footer {
+  font-size: 80%;
+}
+
+img.doggo {
+  float: right;
+  margin: 1rem;
+}
+
+.call-to-action-container {
+  margin: 2rem;
+}
+
+.call-to-action {
+  font-size: 150%;
+  border: solid thick #660000;
+  padding: 1rem;
+}
+
+.alternative_fact {
+    border: #ff9933 4px solid;
+    border-radius: 4px;
+    background-color: #ff9933;
+    font-family: serif;
+    color: black;
+    
+}
+
+.red_warning {
+    font-family: sans-serif;
+    color: red;
+    font-weight: bold;
+}
+
+h1.main_header {
+    font-size: 40px;
+}

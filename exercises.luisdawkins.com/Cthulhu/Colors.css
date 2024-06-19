@@ -1,0 +1,39 @@
+.alternative_fact {
+    border: red 4px solid;
+    border-radius: 4px;
+    font-family: serif;
+    color: black;
+    
+}
+
+.highlight {
+    border: thick red solid;
+    padding: 1rem;
+    overflow: auto;
+}
+
+.red_warning {
+    font-family: sans-serif;
+    color: red;
+    font-weight: bold;
+}
+
+.main_header {
+    font-size: 40px;
+}
+
+.small_doggo {
+    width: 100px;
+    max-width: 100%;
+    float: left;
+    border: solid lightgrey 4px;
+    border-radius: 4px;
+    padding: 0.5rem;
+    margin: 2rem;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: serif;
+    color: black;
+}

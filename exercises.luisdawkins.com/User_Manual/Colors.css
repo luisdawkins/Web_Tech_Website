@@ -1,0 +1,24 @@
+.alternative_fact {
+    border: #ff9933 4px solid;
+    border-radius: 4px;
+    background-color: #ff9933;
+    font-family: serif;
+    color: black;
+    
+}
+
+.red_warning {
+    font-family: sans-serif;
+    color: red;
+    font-weight: bold;
+}
+
+h1.main_header {
+    font-size: 40px;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: serif;
+    color: black;
+}

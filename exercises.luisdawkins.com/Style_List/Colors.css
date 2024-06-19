@@ -1,0 +1,28 @@
+.important_list {
+    border: lightgrey 4px solid;
+    border-radius: 4px;
+    font-family: serif;
+    color: black;
+}
+
+.important_item {
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+
+.left_margin {
+    margin-left: 30px;
+
+}
+
+.main_header {
+    font-size: 40px;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: serif;
+    color: black;
+}

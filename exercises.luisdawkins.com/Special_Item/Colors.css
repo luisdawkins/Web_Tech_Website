@@ -1,0 +1,23 @@
+p.warning {
+    color: black;
+}
+
+.special_item_warning {
+    background: darkred;
+    color: white;
+}
+
+h1.warning {
+    color: green;
+}
+
+h2.warning {
+    color: brown;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: serif;
+    color: white;
+}
+
